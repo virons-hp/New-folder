@@ -1,0 +1,34 @@
+Q.1 College Event Registration Page
+Case:
+Your college is organizing a Tech Fest 2026. The organizing committee wants a registration page where students can register online.
+Task:
+Design an HTML page with CSS that includes:
+    • College logo and event title 
+    • Registration form containing: 
+        ◦ Name 
+        ◦ Email 
+        ◦ Mobile Number 
+        ◦ Branch (Drop-down) 
+        ◦ Gender (Radio Buttons) 
+        ◦ Event Selection (Checkboxes) 
+        ◦ Submit button 
+    • Apply CSS to: 
+        ◦ Center the form 
+        ◦ Add borders and rounded corners 
+        ◦ Style the submit button with hover effect
+Q2. Product Landing Page 
+Case:
+An electronics shop wants to advertise its newly launched laptop on its website.
+Task:
+Create a landing page that includes:
+    • Product image 
+    • Product name 
+    • Features (Bullet List) 
+    • Price 
+    • "Buy Now" button 
+    • Apply CSS to: 
+        ◦ Create a product card 
+        ◦ Add box shadow 
+        ◦ Style the button with hover effect 
+        ◦ Make the page visually attractive
+        
